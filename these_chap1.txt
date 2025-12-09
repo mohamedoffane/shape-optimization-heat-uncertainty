@@ -18,5 +18,5 @@
 %---------------------- DOCUMENT -------------------------
 \begin{document}
 \section{Itroduction}
-Cette thèse vise à déterminer les forme géométriques les plus efficaces pour optimiser les performances thermiques d’un système soumis à conduction de chaleur. Contrairement aux études classiques, les paramètres physiques et les conditions aux limites sont ici affectés par des incertitudes, ce qui nécessite des méthodes numériques robustes. Le travail porte à la fois sur le régime stationnaire et sur le régime transitoire de inéquation de la chaleur.
+Cette thèse vise à déterminer les formes géométriques les plus efficaces pour optimiser les performances thermiques d’un système soumis à conduction de chaleur. Contrairement aux études classiques, les paramètres physiques et les conditions aux limites sont ici affectés par des incertitudes, ce qui nécessite des méthodes numériques robustes. Le travail porte à la fois sur le régime stationnaire et sur le régime transitoire de inéquation de la chaleur.
 \end{document}
